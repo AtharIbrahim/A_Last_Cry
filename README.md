@@ -26,6 +26,9 @@ This project is a Unity 3D character controller system designed to deliver smoot
 ## Getting Started
 To use this system, simply clone or download the repository and integrate it into your Unity project. Follow the setup instructions to configure input settings for both keyboard and gamepad control.
 
+## Third Party Tools
+@Mixamo_Characters_&_Animations 
+
 ## Future Improvements
 Adding new character animation types
 Further enhancing dynamic sound and camera systems
