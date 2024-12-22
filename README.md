@@ -1,6 +1,7 @@
 # Unity 3D Character Controller System
 Overview
 This project is a Unity 3D character controller system designed to deliver smooth and immersive gameplay. It integrates realistic animations, dynamic sound effects, and responsive camera controls. The system supports both keyboard and gamepad inputs, ensuring versatile control for players.
+
 ---
 ## 🚀 Features
 - 🖼 **Smooth Animations**: Seamless character movements for a fluid and lifelike experience.
