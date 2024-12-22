@@ -13,6 +13,15 @@ This project is a Unity 3D character controller system designed to deliver smoot
 - 🎲 **Polished Gameplay**: Smooth interactions between animations, sound effects, and controls for a seamless experience.
 - 🙅‍♂️ **Immersion**: Dynamic elements added to enhance the depth and realism of the gameplay.
 - 💼 **Scalability**: A flexible foundation built for future expansions or additional game mechanics.
+
+## 📸 Screenshots
+
+| ![Character](Screenshots/myself_8K_22.12.2024_17-18-15.jpg) |
+|:---:|
+
+| ![Character](Screenshots/myself_8K_22.12.2024_17-19-09.jpg) |
+|:---:|
+
   
 ## Getting Started
 To use this system, simply clone or download the repository and integrate it into your Unity project. Follow the setup instructions to configure input settings for both keyboard and gamepad control.
